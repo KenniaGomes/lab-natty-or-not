@@ -2,13 +2,15 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Diante de tantas lamentações de famílias sobre os filhos não conseguirem ter atividades além das telas esse E-book foi criado para ajudar a resgatar brincadeiras tradicionais e criativas que promovem interação, aprendizado e diversão fora das telas.
+ 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão; 
+Power Point para edição e layout do arquivo;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para desenvolver o conteúdo. 
+O Power Point foi usado para editar e formatar o layout do E-book.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
