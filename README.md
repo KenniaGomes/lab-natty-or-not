@@ -13,7 +13,7 @@ Power Point para edição e layout do arquivo;
 O Power Point foi usado para editar e formatar o layout do E-book.
 
 ## 🚀 Resultados
-https://github.com/KenniaGomes/lab-natty-or-not/commit/7b93d4227c37876de3f9226c3e1c4779b07756a0)
+(https://github.com/KenniaGomes/lab-natty-or-not/blob/main/DESAFIO%20NATURAL%20OU%20FAKE%20NATTY.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
